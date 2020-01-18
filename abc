@@ -1,0 +1,21 @@
+<div class="testimonials bg-primary">    
+                    <img src="./images/bipul.jpg" alt="bipul">
+                    <p>We had an excellent stay in R&T, we arrived at the train station, 
+                        and were pleased to know the hotel was only a few shorts blocks away. 
+                        Nice, helpful and friendly staff, good restaurant, good morning buffet. 
+                        Would again return for a stay at this hotel.</p>
+                    </div>
+
+                    <div class="testimonials bg-primary">    
+                    <img src="./images/nikhil.jpg" alt="nikhil">
+                    <p>Thank you very much! I arrived with my grandparents. 
+                        The room and the service were excellent. The beds were very comfortable. 
+                        The breakfast was great as well. The Internet worked fine.</p>
+                    </div>
+
+                    <div class="testimonials bg-primary">
+                    <img src="./images/jo.jpg" alt="joicy">
+                    <p>Nice staff, near bus access, very big room and silently sleep. 
+                    You can find cheap food in train station nearby hotel. We found very cheap items shop near this hotel too, 
+                    they sell souvenir and more things. </p>
+                </div>
